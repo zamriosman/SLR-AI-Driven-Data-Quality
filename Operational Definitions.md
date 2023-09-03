@@ -1,3 +1,4 @@
+# Operational Definitions for AI-Driven Data Quality
 Operational definitions are specific, measurable descriptions of key concepts or terms. When it comes to AI-driven data quality, operational definitions can help clarify and measure the aspects of data quality that AI systems can influence. Here's a list of operational definitions related to AI-driven data quality:
 
 1. **Data Accuracy**: The degree to which AI algorithms and processes align data values with their true real-world counterparts, measured by the proportion of correct data points within a dataset.
