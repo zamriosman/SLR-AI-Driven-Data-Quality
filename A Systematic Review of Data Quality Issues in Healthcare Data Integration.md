@@ -1,4 +1,3 @@
-_Created with [AIPRM Prompt "Human Written |100% Unique |SEO Optimized Article"](https://www.aiprm.com/prompts/seo/writing/1784224785543462912/)_
 
 # A Systematic Review of Data Quality Issues in Healthcare Data Integration
 
