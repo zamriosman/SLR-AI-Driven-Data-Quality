@@ -1,4 +1,3 @@
-Certainly, here is an outline for the literature review chapter on the topic of "Improving the Quality of Data in Data Integration Using Data Matching Approach":
 
 # **Literature Review: Improving Data Quality in Data Integration through Data Matching**
 
